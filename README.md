@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohanraj R</h1>
 <h3 align="center">A Passionate and Proficient FullStack Developer from India</h3>
-<p align="centre"><img src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=L-J1EFIJzlFXa-2bu5K-SqOT0PXYAaPZgXxnpneoF0U"></p>
+<p align="centre"> <img src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=L-J1EFIJzlFXa-2bu5K-SqOT0PXYAaPZgXxnpneoF0U"> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohanraj22-tech&label=Profile%20views&color=0e75b6&style=flat" alt="mohanraj22-tech" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohanraj22-tech" alt="mohanraj22-tech" /></a> </p>
